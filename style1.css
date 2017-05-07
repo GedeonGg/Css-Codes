@@ -1,0 +1,194 @@
+<style>
+						#dog_block article
+							{
+							 margin:20px;
+							 margin-bottom: 20px;
+							 height:400px;
+							 width: 100%;
+							}
+						div#page_block
+						{
+						  border: 1px solid black;
+						  height: 2000px;
+						}
+						
+						#image_block1
+						{
+							border:0px solid black;
+							padding:1px;
+							margin: auto;
+							width: 250px;
+							height: 400x;
+							margin-top:20px;
+							border-radius: 10px;
+							margin-left:50px;
+						}
+						#photo_block
+						{
+							border:0px solid black;
+							height:200px;
+							width:200px;
+							border-radius: 10px;
+							border-color:green;
+						}
+						
+						{
+							border:1px solid black;
+							height:200px;
+							width:200px;
+							border-radius: 100px;
+							}
+							
+						section#usercontent 
+							{
+							border:1px solid black;
+							width:1400px;
+							height:1600px;
+							border-color:green;
+							border-radius:20px;
+							margin-left: auto ;
+							margin-right: auto ;
+							text-align: center;
+									}
+						
+						
+						section#usercontent article 
+							{
+							height:1200px;
+							width:800px;
+							float:left;
+							border:0px solid black;
+							vertical-align:top;
+							text-align: justify;
+							margin: 20px;
+							margin-right:50px;
+							padding:12px;
+							
+							}
+							section#usercontent aside 
+							{
+							height:100px;
+							width:400px;
+							border:0px solid black;
+							padding:12px;
+							border-radius:5px;
+							margin: 880px;
+							vertical-align:top;
+							margin-top: 20px;
+						}
+						#video_block
+						{
+							height:200px;
+							width:200px;
+							margin-top: 1000px;
+							border:1px solid black;
+							padding:12px;
+						}
+						#aside_1
+						{
+							border:1px solid black;
+							padding:40px;
+							border-radius:50px;
+							border-color:green;
+							margin-left:70px;
+							width:360px; 
+						}
+						
+						#aside_2
+						{
+							border:1px solid black;
+							margin-top: 50px;
+							padding:40px;
+							width:360px; 
+							height:700px;
+							border-radius:50px;
+							border-color:green;
+							margin-left:70px;
+							
+						}
+						
+						p 
+						{ 
+							overflow: hidden;
+							text-align:justify;
+							word-wrap: break-word;
+						}
+						table
+						{
+							border: 0px solid black;
+							width:800px;
+							height:200px;
+						}
+						div#footer
+						{
+							border:1px solid black;
+							display: inline-block;
+							width:1300px;
+							height:200px;
+							border-radius:20px;
+							margin-bottom:0px;
+							margin-top:2px;
+							border-color:green;
+							margin-left: 100px;
+						}
+						#table
+						{
+							border: 0px solid black;
+							width:10px;
+							height:200px;
+							border-color:green;
+							margin-left: 100px;
+							
+						}
+						#footer_block
+						{
+							border:0px solid black;
+							padding:12px;
+							width:400px; 
+							height:200px;
+							border-radius:10px;
+							margin-left: 50px;
+							border-left: 1px solid black;
+							border-color:green;
+						}
+						#footer_block_unique
+						{
+							border:0px solid black;
+							padding:12px;
+							width:400px; 
+							height:200px;
+							border-radius:10px;
+							margin-left: 50px;
+							border-left: 0px solid black;
+							border-color:green;
+						}
+						span, h6
+						{
+							align: center;
+							margin-left:0px;
+						}
+						
+						.message
+						{
+							-moz-border-radius:20px;
+							-webkit-border-radius:20px;
+							border-radius:20px;
+							padding:20px;
+							margin:auto;
+							width:500px;
+							background:url('images/black_40p.png');
+							color:#ffffff;
+							text-align:center;
+							font-weight:bold;
+							margin-top:20px;
+							
+						}
+						#button span
+						{
+							align:center;
+							border: 1px solide black;
+							border-radius: 10px solid black;
+						}
+						
+							 
+			</style>
